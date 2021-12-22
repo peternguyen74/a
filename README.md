@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuandungo19
-- 👀 I’m interested in football and League of Legends.
+- 👀 I’m interested in watching football and League of Legends.
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/tuandung2789/
