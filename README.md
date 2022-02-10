@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuandungo19
-- 👀 I’m interested in watching football and League of Legends.
+- 👀 I’m interested in working in a team as an energetic member.
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me https://www.facebook.com/tuandung2789/
 
 <!---
