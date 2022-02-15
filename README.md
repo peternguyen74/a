@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology - Vietnam
 - 💞️ I’m looking to collaborate on Python and C++ projects.
 - 📫 How to reach me https://www.facebook.com/tuandung2789/
--                     Mail: dinhtuandungnguyen@gmail.com
+-                     💌: dinhtuandungnguyen@gmail.com
 
 <!---
 tuandungo19/tuandungo19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
