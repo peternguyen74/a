@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tuandungo19
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology - Vietnam
-- 💞️ I’m looking to collaborate on Python and C++ projects.
+- 👋 Hi, I’m @tuandungo19.
 - 📫 How to reach me https://www.facebook.com/tuandung2789/
 -                     💌: dinhtuandungnguyen@gmail.com
 
