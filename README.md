@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @tuandungo19.
+- Language: Python
+- IELTS: 7.0 (expired in 2023)
 - 📫 How to reach me https://www.facebook.com/tuandung2789/
 -                     💌: dinhtuandungnguyen@gmail.com
 
